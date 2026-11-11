@@ -2,7 +2,7 @@
 
 Étudiant ingénieur en dernière année à **EFREI Paris**, spécialité **Cybersécurité & Cloud** (diplôme 2027).
 
-Je recherche un **stage de fin d'études de 6 mois à partir de mars 2027** en Île-de-France : SOC / Blue Team, Security Engineer, Cloud Security ou ingénierie sécurité des infrastructures.
+Je recherche un **stage de fin d'études de 6 mois à partir de mars 2027** en Île-de-France.
 
 ---
 
@@ -66,4 +66,4 @@ Français courant · Anglais professionnel · Arabe langue maternelle
 
 ---
 
-Me contacter : via [LinkedIn](#) <!-- remplacer # par l'URL de ton profil LinkedIn -->
+Me contacter : via [LinkedIn](https://www.linkedin.com/in/el-mehdi-youssef-baggar-0865b5316)
