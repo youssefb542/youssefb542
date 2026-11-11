@@ -2,7 +2,7 @@
 
 Étudiant ingénieur en dernière année à **EFREI Paris**, spécialité **Cybersécurité & Cloud** (diplôme 2027).
 
-Je recherche un **stage de fin d'études de 6 mois à partir de mars 2027** en Île-de-France.
+Je recherche un **stage de fin d'études de 6 mois à partir de mars 2027**.
 
 ---
 
