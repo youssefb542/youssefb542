@@ -4,6 +4,8 @@
 
 Je recherche un **stage de fin d'études de 6 mois à partir de mars 2027**.
 
+📄 [Télécharger mon CV (PDF)](CV_Baggar_ElMehdi.pdf)
+
 ---
 
 ## Expérience
